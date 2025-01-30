@@ -27,6 +27,12 @@ The command to set a working directory is setwd(). For example, this sets the wo
 setwd("~/jour472/data_journalism_2024_fall")
 ```
 
+```{r}
+#Print takes an input and logs it in the terminal
+print("Hello World")
+```
+
+
 ### How to install and load the tidyverse
 
 ```{r}
